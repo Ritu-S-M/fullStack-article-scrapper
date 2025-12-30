@@ -140,4 +140,3 @@ POST /api/data
 
 Created as part of the BeyondChats internship evaluation.
 
-```
